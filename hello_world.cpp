@@ -1,6 +1,7 @@
 #include <iostream>
 
 void my_func1();
+void my_func2();
 
 int main()
 {
