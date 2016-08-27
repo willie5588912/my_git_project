@@ -1,5 +1,9 @@
 #include <iostream>
 
+void my_func1();
+void my_func2();
+void my_func3();
+
 int main()
 {
   std::cout << "hello world" << std::endl;
