@@ -6,6 +6,7 @@ void my_func3();
 void my_func4();
 void my_func5();
 void my_func6();
+void my_func7();
 
 int main()
 {
